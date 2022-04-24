@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 
-import './demo.css';
+import '../demo.css';
 
 const newDemoList = [
     {
